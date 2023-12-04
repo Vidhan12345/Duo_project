@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "905770071652",
+    "project_id": "lets-see-f6eba",
+    "storage_bucket": "lets-see-f6eba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905770071652:android:99ed5ac33246b3aa991171",
+        "android_client_info": {
+          "package_name": "com.example.letssee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905770071652-u8c7gsqc2l6g29fj9m8f5ggj9vn56d2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letssee",
+            "certificate_hash": "e0c5057874913991b31bb1bc4e0ede1a82302c72"
+          }
+        },
+        {
+          "client_id": "905770071652-m6a02tblku0ecfjc4ja43f967fps41nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-JXumyqJ5vCAjHYulgzA6-VHqWVc8f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905770071652-m6a02tblku0ecfjc4ja43f967fps41nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
